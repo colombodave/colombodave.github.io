@@ -127,7 +127,7 @@ nav a:hover {
 
     header {
         display: grid;
-        grid-template-columns: 1fr auto minmax(400px, 3fr) 1fr;
+        grid-template-columns: 0.7fr auto minmax(400px, 20fr) 1fr;
     }
 
     .logo {
@@ -146,6 +146,7 @@ nav a:hover {
         opacity: 1;
         position: relative;
         font-size: 1rem;
+        margin-left: -20px;
     }
 
     nav a::before {
