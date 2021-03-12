@@ -1,0 +1,13 @@
+{
+  "name": "learn-front-end",
+  "version": "1.0.0",
+  "description": "Learning HTML and CSS",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "David Foster",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
